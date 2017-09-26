@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-successalert',
+  selector: 'app-success-alert',
   template: `
     <div class="alert alert-success">
       This is the SuccessAlert Component (classic selector, template and styles in component description)
